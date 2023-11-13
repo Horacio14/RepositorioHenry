@@ -1,6 +1,6 @@
 //String
 
-var bootcamp = "henry";
+var bootcamp = "henry2";
 
 //Numeros
 
@@ -8,7 +8,7 @@ var numeroEntero = 17;
 
 var numeroNegativo = -4;
 
-var numeroDecimal = 4,5;
+var numeroDecimal = 4.5;
 
 // Booleanos
 
